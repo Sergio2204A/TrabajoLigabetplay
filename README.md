@@ -215,6 +215,6 @@ Además, se construyó una base sólida que puede ser extendida hacia aplicacion
 
 ## 👨‍💻 Autor
 
-[Tu nombre aquí]
+[Sergio Andres Abril]
 
 Proyecto académico – 2026
