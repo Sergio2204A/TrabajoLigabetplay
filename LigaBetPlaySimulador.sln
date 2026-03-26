@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LigaBetPlaySimulador", "LigaBetPlaySimulador.csproj", "{FCD20DF8-15B6-BD6B-1F99-EFC5C2BAA058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD20DF8-15B6-BD6B-1F99-EFC5C2BAA058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD20DF8-15B6-BD6B-1F99-EFC5C2BAA058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD20DF8-15B6-BD6B-1F99-EFC5C2BAA058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD20DF8-15B6-BD6B-1F99-EFC5C2BAA058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A0E8DB-F218-4D06-A387-73B153B3512B}
+	EndGlobalSection
+EndGlobal
